@@ -78,3 +78,7 @@ Para mais informações sobre este curso, entre em contato:
 
 
 [<img src="https://img.icons8.com/ios/20/000000/github--v1.png"/>](https://github.com/igoripc) [igoripc](https://github.com/igoripc)
+
+[<img src="https://img.icons8.com/ios/20/000000/linkedin--v1.png"/>](https://www.linkedin.com/in/igor-cavalcante-888a54248) [igoripc](https://www.linkedin.com/in/igor-cavalcante-888a54248)
+
+<img src="https://img.icons8.com/material/20/000000/email.png"/> [igor.pintocavalcante@gmail.com](mailto:igor.pintocavalcante@gmail.com)
