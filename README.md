@@ -1,5 +1,8 @@
 # Bancada didática de flambagem
 
+![img1](assets/image.png)
+
+
 fale sobre um pouco do seu trabalho
 
 
