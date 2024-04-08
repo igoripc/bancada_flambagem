@@ -5,7 +5,7 @@
 
 A programação desse código foi realizada para ser aplicado em um Arduino Uno, com a utilização de três células de carga, um display e um botão. Os resultados obtidos estão programados para serem lidos em kilogramas [kg] e o botão foi desenvolido para tarar todas as células de carga.
 
-# Dependencias
+# Dependências
 
 ```c++
 #include <HX711.h>
